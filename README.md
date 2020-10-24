@@ -36,7 +36,7 @@ function SideNav(props: {ref: any, onClick: any}) {
 }
 ```
 
-The skeleton dashboard layout is taken from, [here](https://medium.com/better-programming/)
+The skeleton dashboard layout is taken from, [here](https://medium.com/better-programming/build-a-responsive-modern-dashboard-layout-with-css-grid-and-flexbox-bd343776a97e)
 
 
 **Usage:**
