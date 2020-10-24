@@ -64,7 +64,7 @@ visit [http://localhost:1234/](http://localhost:1234/)
 
 3. Delete tiny-react
 
-    rm -rd ./src/react
+    rm -rf ./src/react
 
 
 **Links:**
