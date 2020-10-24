@@ -8,7 +8,7 @@ resource constrained environments. The project has no run-time dependencies
 and uses standard webpack to bundle the project source & CSS. The complete
 bundle size is 19KB.
 
-A demonstation is avalable **[HERE](./docs/index.html)**
+A demonstration is available **[HERE](https://stevej2608.github.io/tiny-react/)**
 
 The definitely typed package `@types/react` provides intellisense. The React coding
 is plug-compatible with the full React implementation so you can switch to the full
